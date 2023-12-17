@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Lewis
-- 👀 I’m interested in Web3
+- 👋 Hi, I’m Christopher Lewis
+- 👀 I’m interested in Web3 projects
 
 <!---
 TopLewis27/TopLewis27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
